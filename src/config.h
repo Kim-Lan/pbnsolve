@@ -72,7 +72,7 @@
  *   DEBUG_LEVEL == 3            Everything on.
  */
 
-#define DEBUG_LEVEL 2
+#define DEBUG_LEVEL 0
 
 /* LINE WATCH - If this flag is enabled, then you can give arguments like
  * -wR12 to watch row 12 or -wC0 to watch column zero.  Lots of diagnostics
